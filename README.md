@@ -1,3 +1,11 @@
+A grid layout fetching data from an api json file.
+
+# Installation
+npm install
+
+# Run
+npm start
+
 # Carter FED Test
 Code test for potential Carter front-end developers
 
